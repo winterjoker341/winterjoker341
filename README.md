@@ -1,12 +1,12 @@
-## Hello, I’m Kim Seo-Hyeon 👋
+## Hello, I’m SeoHyeon Kim 👋
+
+**I use code to turn imagination into reality.**
 
 🌱 I’m Interested in
 
 * Computer graphics
 
-* System programming
-
-* Competitive programming
+* Problem solving
 
 🔭 Tech Stack
 
